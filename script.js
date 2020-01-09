@@ -1,5 +1,5 @@
-var name = 'Bameron';
-var number = 100;
+var name = 'Bameron'
+var number = 100
 
 console.log(`Hello My Name is ${name}!`);
 console.log(number * "2");
